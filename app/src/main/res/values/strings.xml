@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aboutme</string>
+    <string name="my_name">Chan mun fong</string>
+    <string name="my_profic_pic">profile picture</string>
+    <string name="profile_desc">
+        Name : nemo \n
+        Age : 18 \n
+        height : 180 \n
+        weight : 60kg \n
+        Education : SMK DIY \n
+        Working Experiences : IDK \n\n\n\n\n\n\n\n\n
+        end of profile\n
+    </string>
+
+</resources>
